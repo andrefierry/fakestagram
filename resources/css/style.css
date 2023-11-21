@@ -1,0 +1,49 @@
+/* GLOBALI */
+
+.screen{
+    height: 80vh;
+    width: 40vh;
+    border-radius: 20px;
+    border: 6px solid black;
+    overflow: auto;
+    position:fixed;
+}
+
+.navMenu{
+    position: fixed;
+    bottom: 12vh;
+    width: 38vh !important;
+    height: 5vh !important;
+    background-color: white;
+    padding: 0;
+    margin-left: -8px !important;
+}
+
+.formRegister{
+    width: 100%;
+}
+
+.divHr{
+    position:relative;
+    display: inline;
+}
+
+.or{
+    position: absolute;
+    left: 40.5%;
+    top: 73.8%;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.or2{
+    position: absolute;
+    left: 40.5%;
+    top: 68.2%;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
